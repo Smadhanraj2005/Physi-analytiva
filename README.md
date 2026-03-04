@@ -32,7 +32,7 @@ Working on this project gave me valuable hands-on experience and boosted my conf
 
 I am grateful for the guidance, feedback, and learning opportunities provided during my internship, which helped me grow both technically and professionally.
 
-My project : https://lnkd.in/g-C5wCva
+My project : [https://lnkd.in/g-C5wCva](https://dev-physianalytica-site.pantheonsite.io/)
 
 ![1769919516068](https://github.com/user-attachments/assets/9c82cc84-23fd-4639-bb20-47d8d5d78b9a)
 
