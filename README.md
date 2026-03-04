@@ -11,6 +11,7 @@ About my project:
 
 While developing my project, I regularly referred to developer documentation, which helped me understand the structure, features, and best practices.
 Reading and applying documentation made my work more clear and helped me solve issues on my own.
+![1769919516068](https://github.com/user-attachments/assets/9c82cc84-23fd-4639-bb20-47d8d5d78b9a)
 
 Technologies and tools used: 
 • Elementor Editor – for page building and layout design
